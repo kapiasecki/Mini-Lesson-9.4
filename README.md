@@ -27,4 +27,4 @@ Include a list of the tools used in the project:
 [@BillGates](https://twitter.com/BillGates) - Twitter
 
 
-![Github Logo](github_photo.png "Github logo - markdown")
+![Github Logo](github_photo.png "Github logoo - markdown")
